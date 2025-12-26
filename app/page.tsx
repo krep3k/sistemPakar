@@ -1,4 +1,5 @@
 // app/page.tsx
+"use client";
 import { useState, useMemo, useRef } from "react";
 import Papa from "papaparse";
 import jsPDF from "jspdf";
